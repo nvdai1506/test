@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "properties": {
+    "quiz_name": {
+      "type": "string"
+    },
+    "info": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "quiz_name"
+  ],
+  "additionalProperties": false
+}
